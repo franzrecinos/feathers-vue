@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://node:test123@ds061385.mlab.com:61385/cachonda",
+  "public": "../../public/",
+  "auth": {
+    "token": {
+      "secret": "RSEm7w6taKeealhGfR/NmDvoZG2tzkqPXgWTh5bl2WS6Rgbf/8bVlDnzf8zqRfSHqXOEitdP5SZ4euudNyWwLA=="
+    },
+    "local": {}
+  }
+}
